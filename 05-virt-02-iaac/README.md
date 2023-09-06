@@ -131,9 +131,34 @@
 Установите на личный компьютер:
 
 - [VirtualBox](https://www.virtualbox.org/),
+  ```
+   Версия 7.0.6 r155176 (Qt5.15.2)
+  ```
 - [Vagrant](https://github.com/netology-code/devops-materials),
+  ```
+    vagrant --version
+    Vagrant 2.3.4
+
+
+  ```
+
+
 - [Terraform](https://github.com/netology-code/devops-materials/blob/master/README.md),
+
+ ```
+    terraform version
+    Terraform v1.6.0-alpha20230816
+    on linux_amd64
+
+ ```
+
 - Ansible.
+
+ ```
+   ansible --version
+    ansible 2.9.6
+
+ ```
 
 *Приложите вывод команд установленных версий каждой из программ, оформленный в Markdown.*
 
